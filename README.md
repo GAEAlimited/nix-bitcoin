@@ -24,7 +24,7 @@
 </p>
 <br/>
 
-nix-bitcoin is a collection of Nix packages and NixOS modules for easily installing **full-featured Bitcoin nodes** with an emphasis on **security**.
+GSC20 hosted editoin implimentation iof the nix-bitcoin is a collection of Nix packages and NixOS modules for easily installing **full-featured Bitcoin nodes** with an emphasis on **security**.
 
 Overview
 ---
